@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "criticcinema",
+            "database": "${workspaceFolder:criticinema}/database/sqlite.sql"
+        }
+    ],
+    "blade.format.enable": true
+}
